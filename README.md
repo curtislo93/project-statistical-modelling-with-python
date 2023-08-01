@@ -1,4 +1,4 @@
-# Final-Project-Statistical-Modelling-with-Python
+# Bubble Tea Shops - Statistical Modelling with Python
 
 ## Project/Goals
 My goal is to use the CityBikes, Foursquare and Yelp APIs to return information on the closest bubble tea shops for each bike station.
